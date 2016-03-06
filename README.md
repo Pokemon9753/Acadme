@@ -1,10 +1,8 @@
 # Acadme
 
 ### Installation
-1. Download the Acadme Folder
-2. Save Folder locally in Eclipse Workplace
-3. Import the Project into Eclipse
-
+1. Import the Project into Eclipse 
+>Import-> Git -> URI -> https://github.com/Pokemon9753/Acadme.git
 ### Usage
 1. Open and Run <em>Acadam_E.java</em> in the <em>/src</em> folder
 2. Login
