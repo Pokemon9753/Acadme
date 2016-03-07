@@ -1,8 +1,8 @@
 # Acadme
 
 ### Installation
- 1. Download the Acadme Folder
- 2. Save Folder locally in Eclipse Workplace
+ 1. Download the whole repo as a zip
+ 2. Unzip the repo and save in a Eclipse Workspace
  3. Import the Project into Eclipse
 
 ### Usage
